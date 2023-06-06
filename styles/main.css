@@ -35,8 +35,11 @@ body  {
 
 /* header */            
 header {
-    padding: 30px 0px;
-background-color: #ff0000;
+    padding: 30px 30px;
+    min-height: 150px;
+    padding-top: 40px;
+    background-image: -o-linear-gradient(to h1, var(#f00 ), var (rgb(151, 62, 62) ));
+    background-color: #ff0000;
 }
 
 header nav li {
