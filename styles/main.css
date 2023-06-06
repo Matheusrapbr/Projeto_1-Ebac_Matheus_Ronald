@@ -22,6 +22,10 @@ form button {
     font-weight: normal;
 }
 
+h1 {
+    text-shadow: 4px 4px 4px black;
+}
+
 body  {
     font-family: 'Noto Sans', sans-serif;
     background-color: #000;
